@@ -57,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali-2408/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/Anjali-2408/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/Anjali-2408/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 <!---LeetCode Topics End-->
