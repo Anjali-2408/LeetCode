@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Anjali-2408/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjali-2408/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali-2408/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Anjali-2408/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Anjali-2408/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali-2408/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali-2408/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anjali-2408/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali-2408/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali-2408/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali-2408/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Anjali-2408/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Anjali-2408/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali-2408/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -76,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Anjali-2408/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali-2408/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
