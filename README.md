@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anjali-2408/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali-2408/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Anjali-2408/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anjali-2408/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
