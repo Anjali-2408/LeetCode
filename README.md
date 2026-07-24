@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Anjali-2408/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anjali-2408/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Anjali-2408/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali-2408/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Anjali-2408/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anjali-2408/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali-2408/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anjali-2408/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Anjali-2408/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Anjali-2408/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anjali-2408/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali-2408/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Anjali-2408/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anjali-2408/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali-2408/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjali-2408/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
