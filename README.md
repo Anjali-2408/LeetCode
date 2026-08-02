@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Anjali-2408/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anjali-2408/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-2408/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Anjali-2408/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anjali-2408/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Anjali-2408/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali-2408/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Anjali-2408/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Anjali-2408/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-2408/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Anjali-2408/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali-2408/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Anjali-2408/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjali-2408/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Anjali-2408/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Anjali-2408/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali-2408/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anjali-2408/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anjali-2408/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -300,4 +303,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Anjali-2408/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Anjali-2408/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
