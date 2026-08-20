@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anjali-2408/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjali-2408/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anjali-2408/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjali-2408/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Anjali-2408/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anjali-2408/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali-2408/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Anjali-2408/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjali-2408/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/Anjali-2408/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anjali-2408/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
