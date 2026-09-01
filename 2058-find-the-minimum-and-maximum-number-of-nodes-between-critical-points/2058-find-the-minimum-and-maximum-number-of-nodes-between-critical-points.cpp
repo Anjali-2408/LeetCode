@@ -1,39 +1,40 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> nums;
-
-        while(head){
-            nums.push_back(head->val);
-            head = head->next;
-        }
-
-        vector<int> criticalPoints;
-
-        int n = nums.size();
-
-        for(int i = 1; i < n - 1; i++){
-            if(nums[i] > nums[i - 1] && nums[i] > nums[i + 1]){
-                criticalPoints.push_back(i);
+    static vector<int> nodesBetweenCriticalPoints(ListNode* head) {
+        int i=1, sz=0, p0=-1, p=-1, minD=INT_MAX;
+        int x0=head->val, x1=head->next->val;
+        bool less=x1<x0, bigger=x1>x0;
+        for(ListNode* Next=head->next->next; Next; i++, Next=Next->next){
+            int x=Next->val;
+            bool bigger1=x>x1, less1=x<x1;
+            if((less && bigger1)||(bigger && less1)){
+                if (sz==0) p0=i;
+                sz++;
+                if (p!=-1) minD=min(i-p, minD);
+                p=i;
             }
-            else if(nums[i] < nums[i - 1] && nums[i] < nums[i + 1]){
-                criticalPoints.push_back(i);
-            }
+            bigger=bigger1;
+            less=less1;
+            x1=x;
         }
-
-        int m = criticalPoints.size();
-
-        if(m < 2) return {-1, -1};
-
-        int minDist = INT_MAX;
-
-        int maxDist = criticalPoints[m - 1] - criticalPoints[0];
-
-        for(int i = 1; i < m; i++){
-            minDist = min(minDist,
-                criticalPoints[i] - criticalPoints[i - 1]);
-        }
-
-        return {minDist, maxDist};
+        if (sz<=1) return {-1, -1};
+        else return {minD, p-p0};
     }
 };
+
+auto init = []() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
